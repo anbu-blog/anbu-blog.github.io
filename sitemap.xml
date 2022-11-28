@@ -3,6 +3,8 @@
     <url>
         <loc>http://localhost/about.html</loc><lastmod>2013-09-24</lastmod>
     </url><url>
+        <loc>http://localhost/blog/java-helloworld.html</loc><lastmod>2020-11-28</lastmod>
+    </url><url>
         <loc>http://localhost/blog/simple-webflux-server-and-client.html</loc><lastmod>2020-06-30</lastmod>
     </url>
 </urlset>
